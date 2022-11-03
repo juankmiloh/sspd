@@ -1,0 +1,4 @@
+sudo apt-get install python3-venv
+python -m pip install --upgrade pip
+Actualizar version de python a 3.7 cuando salga el error de ImportError: cannot import name '_AnnotatedAlias'
+https://www.itsupportwale.com/blog/how-to-upgrade-to-python-3-7-on-ubuntu-18-10/
